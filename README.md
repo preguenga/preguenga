@@ -2,6 +2,6 @@
 
 ✨ Open source lover and enthusiast.
 
-💻 Currently learning DevOps Stack. (ansible, docker, kubernetes, rundeck)
+💻 Currently learning DevOps Stack. (ansible, docker, kubernetes, Terraform and more)
 
 
